@@ -1,10 +1,4 @@
 
-
----
-
-## 3. `.github/ISSUE_TEMPLATE/feature_request.md`
-
-```md
 ---
 name: 기능 작업
 about: 새로운 기능 또는 일반 작업 이슈를 생성합니다.
