@@ -1,5 +1,5 @@
 ---
-name: Refactor
+name: 리팩토링
 about: 기능 변경 없이 코드 구조를 개선하는 작업을 제안합니다.
 title: "[Refactor] "
 labels: refactor
